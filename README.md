@@ -2,8 +2,7 @@
 
 一款线程安全的FreeRTOS（cmsis_os2）的日志调试库，基于STM32F4_HAL。
 
-![image-20240401180207986](./README.assets/image-20240401180207986.png)
-
+<img src="https://s2.loli.net/2024/04/01/Uj1gPw4F6oLcqzK.png"/>
 
 
 ## 使用方法：
